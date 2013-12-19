@@ -1,4 +1,4 @@
 gtport
 ======
 
-cs4400 gt port php/mysql application
+Fall2012 gt port php/mysql application cs4400
